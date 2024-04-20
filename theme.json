@@ -9,7 +9,7 @@
 		"global.css": ["SP", "QuickAccess"]
 	},
 	"patches": {
-		"controller Type": {
+		"Variant": {
 			"default": "Monochrome",
 			"type": "dropdown",
 			"values":{
