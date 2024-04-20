@@ -6,3 +6,9 @@ For use with:
 
 * [Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader)
 * [CSS Loader Plugin](https://github.com/suchmememanyskill/SDH-CssLoader)
+
+Offers two variants, one with monochrome A, B, X, Y buttons, and one with the defualt Xbox360 coloured ones.
+
+![](imgs/mono.jpg)
+
+![](imgs/coloured.jpg)
