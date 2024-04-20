@@ -1,0 +1,12 @@
+:root {
+    /* "Select" and "start" */
+    --zbpg-xbox360-slc: url("/themes_custom/stadia-buttons/glyphs/sd_button_options.svg");
+    --zbpg-xbox360-srt: url("/themes_custom/stadia-buttons/glyphs/sd_button_menu.svg");
+    /* Use monochrome A, B, X, Y instead of coloured ones */
+    --zbpg-xbox-a: url("/steaminputglyphs/shared_button_a.svg");
+    --zbpg-xbox-b: url("/steaminputglyphs/shared_button_b.svg");
+    --zbpg-xbox-x: url("/steaminputglyphs/shared_button_x.svg");
+    --zbpg-xbox-y: url("/steaminputglyphs/shared_button_y.svg");
+    /* Change Xbox button to Stadia */
+    --zbpg-xbox-btn: url("/themes_custom/stadia-buttons/glyphs/sd_button_stadia.svg");
+}

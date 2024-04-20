@@ -1,0 +1,14 @@
+{
+	"include": [
+		"glyphs/sd_button_menu.svg",
+        "glyphs/sd_button_options.svg",
+        "glyphs/sd_button_stadia.svg",
+	],
+	"ignore": [
+        "glyphs/sd_button_assistant.afdesign",
+        "glyphs/sd_button_capture.afdesign",
+        "glyphs/sd_button_stadia.afdesign",
+        "glyphs/sd_button_assistant.svg",
+        "glyphs/sd_button_capture.svg"
+	]
+}
